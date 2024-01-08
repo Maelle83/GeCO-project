@@ -1,0 +1,4 @@
+Pyo vs Aga : 85.4 (% ?) de similitudes
+Pyo vs Lac : 75.7 (% ?) de similitudes
+Pyo vs Penan : 74.2 (% ?) de similitudes
+Pyo vs Pneumo : 80 (% ?) de similitudes
